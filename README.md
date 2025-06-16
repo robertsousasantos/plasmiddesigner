@@ -21,3 +21,9 @@ python main.py "Express GFP in E. coli" --gene-seq ATGC...
 ```
 
 This will print the design parameters and resulting plasmid sequence.
+
+### Notebook
+
+Open `demo.ipynb` in Google Colab to explore the same steps interactively.
+The first cell installs dependencies, and subsequent cells parse a text
+description, optimize a gene and assemble a toy plasmid.
